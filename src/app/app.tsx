@@ -170,7 +170,7 @@ const App = () => {
           </div>
         )}
         <div className="w-full md:w-1/2 text-center md:text-left px-4 md:px-12 flex flex-col justify-center h-full">
-          <h1 className="text-4xl md:text-6xl font-bold text-white">Architex</h1>
+          <h1 className="text-4xl md:text-6xl font-bold text-white">Architect</h1>
           <p className="mt-4 text-lg md:text-2xl text-white mb-10">Design your interior with AI. Get free credits by signing up here.</p>
         </div>
         <div className="w-full md:w-1/3 bg-white bg-opacity-90 p-8 rounded-lg shadow-md" style={{ backgroundImage: "url(/image.jpg)" }}>
